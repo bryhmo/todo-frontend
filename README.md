@@ -2,8 +2,8 @@
 
 > A modern, full-featured Todo application built with React + Vite. Clean dark UI with authentication, CRUD operations, filtering, due dates and status tracking.
 
-🌐 **Live Demo:** [your-todo-app.vercel.app](https://your-todo-app.vercel.app)  
-🔗 **Backend Repo:** [github.com/bryhmo/todo-backend](https://github.com/bryhmo/todo-backend)
+🌐 **Live Demo:** https://todo-frontend-isiaka-ibrahim.vercel.app  
+🔗 **Backend Repo:** https://github.com/bryhmo/todo-backend
 
 ---
 
@@ -75,7 +75,7 @@ todo-frontend/
 ### Prerequisites
 - Node.js v18 or higher
 - npm or yarn
-- The [todo-backend](https://github.com/bryhmo/todo-backend) running locally or deployed
+- The https://github.com/bryhmo/todo-backend running locally or deployed
 
 ### Installation
 
@@ -100,7 +100,7 @@ VITE_API_URL=http://localhost:3000/api
 
 For production, replace with your deployed backend URL:
 ```env
-VITE_API_URL=https://your-backend.railway.app/api
+VITE_API_URL= https://todo-backend-production-cd36.up.railway.app/api
 ```
 
 ### Run Locally
@@ -144,7 +144,7 @@ Logout → Token cleared → Redirect to /login
 3. Import your `todo-frontend` repo
 4. Add environment variable:
    ```
-   VITE_API_URL = https://your-backend.railway.app/api
+   VITE_API_URL = https://todo-backend-production-cd36.up.railway.app/api
    ```
 5. Click **Deploy** 🚀
 
@@ -167,9 +167,9 @@ Logout → Token cleared → Redirect to /login
 
 Built by **Isiaka Ibrahim** — Full Stack Developer & Lecturer from Nigeria 🇳🇬
 
-- 🌐 Portfolio: [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/techwithbrymo](https://www.linkedin.com/in/techwithbrymo)
-- 🐙 GitHub: [github.com/bryhmo](https://github.com/bryhmo)
+- 🌐 Portfolio: https://portfolio-isiaka-ibrahim.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/techwithbrymo
+- 🐙 GitHub: https://github.com/bryhmo
 
 ---
 
